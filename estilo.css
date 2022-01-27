@@ -1,0 +1,46 @@
+header{
+    color: rgb(10, 10, 241); 
+    background-color:royalblue ;
+}
+
+body{
+    color:rgb(52, 6, 255) ;
+    background-image:url(img/Real\ Madrid.png) ;
+    background-size: auto;
+    background-position: center ;
+    background-repeat: no-repeat;
+
+
+
+}
+table{
+    color:rgb(3, 255, 58) ;
+    background-color: rgb(3, 184, 255);
+
+
+
+}
+div{
+    color:rgb(188, 255, 3) ;
+    background-color: rgb(255, 3, 3);
+
+
+
+}
+.importante{
+    color:rgb(3, 238, 255) ;
+    background-color: rgb(20, 3, 255); 
+
+
+
+}
+.secundaria{
+    
+    background-color: rgb(3, 175, 255);
+
+
+
+}
+#titulo{
+    font-size: 100px;
+}
